@@ -962,20 +962,19 @@ small {
   position: relative;
   bottom: 35px;
 }
-
+/* 
 @media (max-width: 768px) {
   section#how-are-we .bg-img {
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 0px !important;
     background-attachment: inherit;
-    /* min-height: 520px; */
     background-attachment: fixed;
   }
   .partners {
     padding: 0% !important;
   }
-}
+} */
 
 .we-are-sec-after-sec {
   position: relative;
